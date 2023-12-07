@@ -4,10 +4,10 @@ title: Sheen Patel
 description: Sheen Patel | Portfolio
 taglong: Civil Engineering Student at UofT
 tagshort: Civil BASc at UofT
-url: https://PseudonymPatel.github.io/portfolio
-baseurl: ""
+url: https://pseudonymPatel.github.io/portfolioWebsite
+baseurl: "https://pseudonymPatel.github.io/portfolioWebsite"
 permalink: pretty
-repo: https://github.com/PseudonymPatel/portfolio
+repo: https://github.com/PseudonymPatel/portfolioWebsite
 
 # author settings
 
