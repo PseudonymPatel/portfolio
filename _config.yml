@@ -1,28 +1,28 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Sheen Patel
+description: Sheen Patel | Portfolio
+taglong: Civil Engineering Student at UofT
+tagshort: Civil BASc at UofT
+url: https://PseudonymPatel.github.io/portfolio
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/PseudonymPatel/portfolio
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Sheen Patel
+  email: sheennpatel@gmail.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
 
 social:
   facebook: username
-  github: username
+  github: PseudonymPatel
   instagram: username
-  linkedin: username
+  linkedin: sheen-patel
   stackoverflow: 0000000/username
   twitter: username
 
